@@ -25,3 +25,4 @@
 // called "data.sqlite" in the current working directory which has at least a table
 // called "data".
 ?>
+echo 'Testing' + $_GET['test'];
